@@ -1,6 +1,8 @@
 # Objects-Dimensions-Measurement
 Objects dimensions measurement can be very useful for measuring the object's dimension without any ruler (ofcourse !). 
 #### Machines got eyes 👁
+
+<img src = "https://github.com/ashish1sasmal/Objects-Dimensions-Measurement/blob/master/Results/objects_size_result.gif" width=450>
 <img src = "https://github.com/ashish1sasmal/Objects-Dimensions-Measurement/blob/master/Results/result_objects2.jpg" width=350>
 
 ### What's Inside ?
