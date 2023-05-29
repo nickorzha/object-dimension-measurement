@@ -5,7 +5,7 @@ Objects dimensions measurement can be very useful for measuring the object's dim
 <img src = "https://github.com/adrian-krol/object-dimension-measurement/blob/master/Results/objects_size_result.gif" width=450>
 <img src = "https://github.com/adrian-krol/object-dimension-measurement/blob/master/Results/result_objects2.jpg" width=350>
 
-### What's Inside ?
+### What's Inside?
 <ol>
 <li><b><u>Important!</u> Place a refernece object at the left-most side
 measure it's dimensions (only of this object). We should be able 
